@@ -1,6 +1,6 @@
 # Pokémon Crystal [![Build Status][travis-badge]][travis]
 
-This is a disassembly of Pokémon Crystal.
+This is a personal project based upon the disassembly of Pokémon Crystal.
 
 It builds the following ROMs:
 
