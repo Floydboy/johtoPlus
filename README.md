@@ -1,4 +1,4 @@
-# Johto+ [![Build Status][travis-badge]][Floydboy]
+# Johto+ [Stable build: Polish Job v0.1]
 
 This is a personal project based upon the disassembly of Pokémon Crystal.
 
